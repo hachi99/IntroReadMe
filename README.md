@@ -22,9 +22,11 @@ Currently working as a Junior Web Developer building Laravel applications and le
 
 ### 🎟️ AppGeneraBoletosQR
 Android application developed with Kotlin and Firebase for QR ticket generation.
+https://github.com/hachi99/AppGeneraBoletosQR
 
 ### 🃏 Blackjack
 A simple Blackjack game built with HTML, CSS and JavaScript with PWA support.
+https://github.com/hachi99/blackjack-gb/blob/main/README.md
 
 ## Currently Learning
 
