@@ -26,8 +26,7 @@ https://github.com/hachi99/AppGeneraBoletosQR
 
 ### 🃏 Blackjack
 A simple Blackjack game built with HTML, CSS and JavaScript with PWA support.
-https://github.com/hachi99/blackjack-gb/blob/main/README.md
-
+https://github.com/hachi99/blackjack-gb
 ## Currently Learning
 
 - Docker
