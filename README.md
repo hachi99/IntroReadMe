@@ -18,6 +18,14 @@ Currently working as a Junior Web Developer building Laravel applications and le
 - Git
 - Linux
 
+## 🚧 Currently Developing
+
+### 🎵 Nezh
+
+A local music player for Android, built with Kotlin and Jetpack Compose. Focused on personal music libraries, user control, and an offline-first listening experience.
+
+https://github.com/hachi99/Nezh
+
 ## Featured Projects
 
 ### 🎟️ AppGeneraBoletosQR
